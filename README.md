@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Mhhyarrr
-- 👀 I’m interested in Python and Django 
-- 🌱 I’m currently learning Linux
+- 👋 Hi, I’m Mahyar Rezaei.
+- 👀 I’m interested in Python and Django.
+- 🌱 I’m currently learning Linux.
 
 <!---
 Mhhyarrr/Mhhyarrr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
