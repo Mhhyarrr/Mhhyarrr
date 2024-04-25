@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mhhyarrr
-- 👀 I’m interested in python and Django 
+- 👀 I’m interested in Python and Django 
 - 🌱 I’m currently learning Linux
 
 <!---
