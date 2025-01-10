@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mahyar Rezaei.
+- 👋 Hi, I’m Mahyar Rezaee.
 - 👀 I’m interested in Python.
 - 🌱 I’m currently learning Django.
 <!---
