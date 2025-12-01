@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Mahyar Rezaee.
-- 👀 I’m interested in Python and Linux.
-- 🌱 I’m currently learning Django.
-- You can talk to me about every nerdy things you want.
+- 👀 I’m interested in Python and Django.
+- 🌱 I’m currently learning Backend.
 
 <!---
 Mhhyarrr/Mhhyarrr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
