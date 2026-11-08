@@ -1,8 +1,72 @@
-- 👋 Hi, I’m Mahyar Rezaee.
-- 👀 I’m interested in Python and Django.
-- 🌱 I’m currently learning Backend.
 
-<!---
-Mhhyarrr/Mhhyarrr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">Hi, I'm Mahyar 👋</h1>
+
+<h3 align="center">
+  Computer Science Student | Aspiring Backend Developer
+</h3>
+
+<p align="center">
+  Learning, Building, Breaking, and Improving 🚀
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Computer Science Student
+- 🐍 Learning Python and Django
+- ⚙️ Interested in Backend Development
+- 🐧 Exploring Linux and Open Source
+- 🧠 Practicing Data Structures & Algorithms
+- 🚀 Building my journey one project at a time
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp" />
+</p>
+
+### Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=django,postgresql,mysql" />
+</p>
+
+### Tools & Environment
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+- Python Advanced Concepts
+- Django & REST APIs
+- Database Design
+- Linux Administration
+- Software Engineering
+
+---
+
+## 🤝 Connect With Me
+
+<p>
+  <a href="https://github.com/YOUR_USERNAME">
+    GitHub
+  </a>
+</p>
