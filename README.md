@@ -55,10 +55,15 @@ src="https://skillicons.dev/icons?i=html,css,react" />
 - Software Engineering
 
 
+
 ## 🤝 Connect With Me
 
-<p>
-  <a href="https://github.com/mhhyarrr">
-    GitHub
+<p align="left">
+  <a href="https://github.com/mhhyarrr" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="40" height="40" />
+  </a>
+  <a href="https://t.me/mahistack" target="_blank">
+    <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="40" height="40" />
   </a>
 </p>
+
