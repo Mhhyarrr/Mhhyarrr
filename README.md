@@ -34,6 +34,13 @@
   <img src="https://skillicons.dev/icons?i=django,postgresql,mysql,fastapi" />
 </p>
 
+### Frontend Tools
+<p>
+  <img
+src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
+
+
 ### Tools & Environment
 <p>
   <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,claude" />
