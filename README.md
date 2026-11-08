@@ -48,7 +48,6 @@
 - Linux Administration
 - Software Engineering
 
----
 
 ## 🤝 Connect With Me
 
