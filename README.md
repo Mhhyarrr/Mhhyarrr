@@ -58,7 +58,7 @@ src="https://skillicons.dev/icons?i=html,css,react" />
 ## 🤝 Connect With Me
 
 <p>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/mhhyarrr">
     GitHub
   </a>
 </p>
