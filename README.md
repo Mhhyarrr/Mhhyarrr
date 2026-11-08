@@ -62,8 +62,8 @@ src="https://skillicons.dev/icons?i=html,css,react" />
   <a href="https://github.com/mhhyarrr" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="40" height="40" />
   </a>
-  <a href="https://t.me/mahistack" target="_blank">
-    <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="40" height="40" />
+  <a href="https://www.linkedin.com/in/mahyar-rezaee-qotb-abadi-a7a758291?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin/26A5E4" width="40" height="40" />
   </a>
 </p>
 
