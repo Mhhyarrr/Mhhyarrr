@@ -26,17 +26,17 @@
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,javascript" />
 </p>
 
 ### Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=django,postgresql,mysql" />
+  <img src="https://skillicons.dev/icons?i=django,postgresql,mysql,fastapi" />
 </p>
 
 ### Tools & Environment
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,claude" />
 </p>
 
 ## 🌱 Currently Learning
