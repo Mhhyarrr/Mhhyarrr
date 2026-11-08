@@ -60,6 +60,5 @@ src="https://skillicons.dev/icons?i=html,css,react" />
 <p>
   <a href="https://github.com/mhhyarrr">
     GitHub
-  <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
