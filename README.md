@@ -38,7 +38,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=linux,git,github,vscode" />
 </p>
----
 
 ## 🌱 Currently Learning
 
