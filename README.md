@@ -55,6 +55,17 @@ src="https://skillicons.dev/icons?i=html,css,react" />
 - Software Engineering
 
 
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=mhhyarrr&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mhhyarrr&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mhhyarrr&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5" width="70%" />
+</p>
+
 
 ## 🤝 Connect With Me
 
